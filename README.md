@@ -1,7 +1,7 @@
 💫 LuisLeonel12's GitHub Repository
 Welcome to LuisLeonel12/LuisLeonel12! This repository is truly ✨ special ✨ because its README.md file serves as a window into my GitHub profile.
 
-# ✨ About Me:
+✨ About Me:
 Hey there! 👋 I'm Luis Leonel, and here's a glimpse into what I'm up to:
 
 🚀 Currently, I'm immersed in crafting Java-based desktop programs.
